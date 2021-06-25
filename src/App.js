@@ -24,7 +24,6 @@ import MicIcon from '@material-ui/icons/Mic';
 import MicOffIcon from '@material-ui/icons/MicOff';
 import LocalVideoView from './LocalVideoView';
 import RemoteVideoView from './RemoteVideoView';
-import css from './layout.css';
 import Signaling from './Signaling';
 
 const theme = createMuiTheme({

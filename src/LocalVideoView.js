@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import PropTypes from "prop-types";
-import css from './layout.css';
 import VideoOffIcon from '@material-ui/icons/VideocamOff';
 
 export default class LocalVideoView extends Component {
